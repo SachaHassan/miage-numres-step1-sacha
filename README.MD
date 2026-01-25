@@ -53,7 +53,7 @@ Ainsi pour chacun des TD/TPS, il faudra:
 1. Commiter vos modifs sur votre repo.
 1. Proposer vos modifications sur le repo. parent (**PullRequest**)
 
-# Creation des comptes
+# Creation du compte
 Vous allez créer 1 compte  sur GitHub (à moins que vous n'en ayez déjà un et que vous n'ayez pas consommé tout votre quotas d'utilisation de Codespaces). Ce compte sera utilisé lors des 4TD/TP.
 
 ## GitHub
@@ -97,7 +97,7 @@ Ce TP1 doit permettre de  choisir la  stack d'implementation de l'api. Le choix 
 ![Capture d'écran](assets/GitHubCodeSpaceSettup.png)
 1. Attendez environ 1 à 2 minutes que l'environnement se construise (le système installe Java, Node.js et les extensions nécessaires automatiquement).
 
-Sinon vous pouvez clicquer ici [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new)
+Sinon vous pouvez clicquer ici   [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new)
 
 > [!TIP]
 > Fermez la fenêtre de Copilot, vous n'en avez pas besoin.
