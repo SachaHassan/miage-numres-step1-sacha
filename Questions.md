@@ -1,7 +1,7 @@
-# Q1 : Quels sont  les avantages de Gitpod ?
+# Q1 : Quels sont  les avantages de Codespace ?
 Réponse:
 
-# Q2 : Quels sont les défauts de Gitpod ?
+# Q2 : Quels sont les défauts de Codespace ?
 Réponse:
 
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
