@@ -26,7 +26,7 @@ Réponse: 104944 ko
 Réponse: api-quarkus 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.30.8) started in 0.916s. Listening on: http://0.0.0.0:8080
 
 # Q10 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode natif (Préciser l'unité)?
-Réponse:
+Réponse: 39808 ko
 
 # Q11 : Quel est le temps de démarrage l'api Quarkus en mode natif ?
-Réponse:
+Réponse: api-quarkus 1.0.0-SNAPSHOT native (powered by Quarkus 3.30.8) started in 0.017s. Listening on: http://0.0.0.0:8080
